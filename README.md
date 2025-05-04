@@ -56,7 +56,7 @@ To support Cyclistic’s marketing strategy, I analyzed how annual members and c
 
 ### 📍 Visualizations
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out the full interactive dashboard on Tableau:
-  🔗 [Cyclistic Q1 2020 Annual VS Casual Dashboard on Tableau](https://public.tableau.com/views/CyclisticQ12020AnnualVSCasual/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+  🔗 [Cyclistic Q1 2020 Annual VS Casual Dashboard on Tableau](https://public.tableau.com/app/profile/ashraf.un.noor/viz/CyclisticQ12020AnnualVSCasual/Dashboard2) 
 
 ### 🧠 Skills Demonstrated
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ***Data wrangling with SQL (BigQuery)***
